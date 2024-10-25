@@ -1,0 +1,11 @@
+Package: com.stt.wechat
+Name: wechat
+Author: sttt
+Description: Make your WeChat call unable to hang up!
+Depends: mobilesubstrate
+Maintainer: sttt
+Section: Tweaks
+Icon: https://Mieing.Github.io/repo/file/wechat.png
+Architecture: iphoneos-arm
+Version: 0.0.2
+Installed-Size: 280
